@@ -13,7 +13,6 @@ var helper = {
         return plugin;
     }
 };
-var pkg = require('./package.json');
 
 gulp.task('default', ['build'], function () {
 });
