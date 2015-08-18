@@ -1,0 +1,32 @@
+{
+  "name": "node-sap-common",
+  "version": "0.1.0",
+  "description": "SAP node common library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sapbuild/node-sap-common.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "https://github.com/sapbuild/node-sap-common/blob/master/LICENSE.md"
+    }
+  ],
+  "dependencies": {
+    "node-sap-promise": "~0.1.0"
+  },
+  "devDependencies": {
+    "chai": "~1.10.0",
+	"coveralls": "^2.11.3",
+    "del": "~1.1.1",
+    "gulp": "~3.9.0",
+    "gulp-concat": "~2.5.2",
+    "gulp-eslint": "~0.9.0",
+    "gulp-istanbul": "~0.8.1",
+    "gulp-jsdoc-to-markdown": "~1.0.2",
+    "gulp-mocha": "~2.0.1",
+    "gulp-sonar": "~1.0.2",
+    "gulp-util": "~3.0.4",
+    "mocha": "~2.0.1"
+  }
+}
