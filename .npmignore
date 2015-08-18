@@ -1,0 +1,7 @@
+coverage/
+logs/
+doc/
+test/
+.npmignore
+.eslintrc
+gulpfile.js
