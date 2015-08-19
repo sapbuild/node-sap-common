@@ -25,7 +25,6 @@
     "gulp-istanbul": "~0.8.1",
     "gulp-jsdoc-to-markdown": "~1.0.2",
     "gulp-mocha": "~2.0.1",
-    "gulp-sonar": "~1.0.2",
     "gulp-util": "~3.0.4",
     "mocha": "~2.0.1"
   }
