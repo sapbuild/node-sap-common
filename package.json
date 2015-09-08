@@ -1,6 +1,6 @@
 {
   "name": "node-sap-common",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SAP node common library",
   "repository": {
     "type": "git",
