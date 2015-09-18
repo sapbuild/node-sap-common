@@ -1,6 +1,6 @@
 {
   "name": "node-sap-common",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "SAP node common library",
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
     }
   ],
   "dependencies": {
-    "node-sap-promise": "0.3.0"
+    "node-sap-promise": "0.3.1"
   },
   "devDependencies": {
     "chai": "~1.10.0",
